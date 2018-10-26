@@ -1,6 +1,7 @@
 Pagina1
 <html>
-<head>PAgina 1</head>
+<head>Pagina 1</head>
 <body>
+<h1>Ejemplo pagina</h1>
 </body>
 </html>
