@@ -1,10 +1,10 @@
 <html>
 	<head>
-		<title>Ejercicio </title>
+		<title>Ejercicio en Clase</title>
 	</head>
 	<body>
-Bienvenidos
-<h1>HOLA HELEN</h1>
-Titulo ejemplo
+		<h1> Bienvenidos </h1> 
+		<h3> Titulo ejemplo </h3>
+		<h4> Pruebas </h4>
 	</body>
 </html>
